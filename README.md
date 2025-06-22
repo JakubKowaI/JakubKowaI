@@ -1,2 +1,3 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JakubKowaI)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubKowaI&show_icons=true&theme=transparent)
